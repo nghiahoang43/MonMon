@@ -1,0 +1,376 @@
+mon1
+Species: Slime
+Level: 1
+Attribute: nature
+Health: 36
+Attack: 17
+Defense: 7
+
+You try to feed the monster out of kindness.
+mon1 consume everything. It bounces happily!!!
+Boink boink.
+mon2
+Species: Eagle
+Level: 1
+Attribute: earth
+Health: 21
+Attack: 14
+Defense: 6
+
+You try to feed the monster out of kindness.
+mon2 eats meat. It soars its wings!!!
+Screeching.
+mon3
+Species: Wolf
+Level: 1
+Attribute: water
+Health: 51
+Attack: 34
+Defense: 18
+
+You try to feed the monster out of kindness.
+mon3 devours preys. It stares down as a predator!!!
+Howling.
+mon4
+Species: Bear
+Level: 1
+Attribute: nature
+Health: 73
+Attack: 29
+Defense: 23
+
+You try to feed the monster out of kindness.
+mon4 tears down its prey lazily. It sleeps afterward!!!
+Grumbles.
+mon5
+Species: Chimera
+Level: 1
+Attribute: water
+Health: 98
+Attack: 65
+Defense: 53
+
+You try to feed the monster out of kindness.
+mon5 nibbles then throws away its meal. It smirks!!!
+Roars.
+mon6
+Species: Dragon
+Level: 1
+Attribute: fire
+Health: 139
+Attack: 95
+Defense: 74
+
+You try to feed the monster out of kindness.
+mon6 eats its prey with gratitude. It is a majestic creature on top of the food chain!!!
+Growling.
+
+90 36 21 36 30 6
+190 236 321 436 530 606
+mon1 grows stronger. It is now level 2
+mon1 gains 5 upgrade points!
+You can now upgrade mon1's stats.
+
+mon1 stats:
+mon1
+Species: Slime
+Level: 2
+Attribute: nature
+Health: 36
+Attack: 17
+Defense: 7
+
+You try to feed the monster out of kindness.
+mon1 consume everything. It bounces happily!!!
+
+Upgrade points: 5
+Please enter points spent on upgrading stats in the following format: health attack defense.
+
+
+Invalid inputs!
+Please enter points spent on upgrading stats in the following format: health attack defense.
+
+
+Invalid inputs!
+Please enter points spent on upgrading stats in the following format: health attack defense.
+
+
+Invalid inputs!
+You need to spend all 5 upgrade points.
+Please enter points spent on upgrading stats in the following format: health attack defense.
+
+
+Invalid inputs!
+mon1 only has 5 upgrade points.
+Please enter points spent on upgrading stats in the following format: health attack defense.
+
+
+Upgrade successfully!
+
+mon1 new stats:
+mon1
+Species: Slime
+Level: 2
+Attribute: nature
+Health: 37
+Attack: 19
+Defense: 9
+
+You try to feed the monster out of kindness.
+mon1 consume everything. It bounces happily!!!
+mon2 grows stronger. It is now level 3
+mon2 gains 5 upgrade points!
+You can now upgrade mon2's stats.
+
+mon2 stats:
+mon2
+Species: Eagle
+Level: 3
+Attribute: earth
+Health: 21
+Attack: 14
+Defense: 6
+
+You try to feed the monster out of kindness.
+mon2 eats meat. It soars its wings!!!
+
+Upgrade points: 5
+Please enter points spent on upgrading stats in the following format: health attack defense.
+
+
+Invalid inputs!
+Please enter points spent on upgrading stats in the following format: health attack defense.
+
+
+Invalid inputs!
+Please enter points spent on upgrading stats in the following format: health attack defense.
+
+
+Invalid inputs!
+You need to spend all 5 upgrade points.
+Please enter points spent on upgrading stats in the following format: health attack defense.
+
+
+Invalid inputs!
+mon2 only has 5 upgrade points.
+Please enter points spent on upgrading stats in the following format: health attack defense.
+
+
+Upgrade successfully!
+
+mon2 new stats:
+mon2
+Species: Eagle
+Level: 3
+Attribute: earth
+Health: 22
+Attack: 16
+Defense: 8
+
+You try to feed the monster out of kindness.
+mon2 eats meat. It soars its wings!!!
+mon3 grows stronger. It is now level 4
+mon3 gains 11 upgrade points!
+You can now upgrade mon3's stats.
+
+mon3 stats:
+mon3
+Species: Wolf
+Level: 4
+Attribute: water
+Health: 51
+Attack: 34
+Defense: 18
+
+You try to feed the monster out of kindness.
+mon3 devours preys. It stares down as a predator!!!
+
+Upgrade points: 11
+Please enter points spent on upgrading stats in the following format: health attack defense.
+
+
+Invalid inputs!
+Please enter points spent on upgrading stats in the following format: health attack defense.
+
+
+Invalid inputs!
+Please enter points spent on upgrading stats in the following format: health attack defense.
+
+
+Invalid inputs!
+You need to spend all 11 upgrade points.
+Please enter points spent on upgrading stats in the following format: health attack defense.
+
+
+Invalid inputs!
+mon3 only has 11 upgrade points.
+Please enter points spent on upgrading stats in the following format: health attack defense.
+
+
+Upgrade successfully!
+
+mon3 new stats:
+mon3
+Species: Wolf
+Level: 4
+Attribute: water
+Health: 55
+Attack: 38
+Defense: 21
+
+You try to feed the monster out of kindness.
+mon3 devours preys. It stares down as a predator!!!
+mon4 grows stronger. It is now level 5
+mon4 gains 11 upgrade points!
+You can now upgrade mon4's stats.
+
+mon4 stats:
+mon4
+Species: Bear
+Level: 5
+Attribute: nature
+Health: 73
+Attack: 29
+Defense: 23
+
+You try to feed the monster out of kindness.
+mon4 tears down its prey lazily. It sleeps afterward!!!
+
+Upgrade points: 11
+Please enter points spent on upgrading stats in the following format: health attack defense.
+
+
+Invalid inputs!
+Please enter points spent on upgrading stats in the following format: health attack defense.
+
+
+Invalid inputs!
+Please enter points spent on upgrading stats in the following format: health attack defense.
+
+
+Invalid inputs!
+You need to spend all 11 upgrade points.
+Please enter points spent on upgrading stats in the following format: health attack defense.
+
+
+Invalid inputs!
+mon4 only has 11 upgrade points.
+Please enter points spent on upgrading stats in the following format: health attack defense.
+
+
+Upgrade successfully!
+
+mon4 new stats:
+mon4
+Species: Bear
+Level: 5
+Attribute: nature
+Health: 77
+Attack: 33
+Defense: 26
+
+You try to feed the monster out of kindness.
+mon4 tears down its prey lazily. It sleeps afterward!!!
+mon5 grows stronger. It is now level 6
+mon5 gains 17 upgrade points!
+You can now upgrade mon5's stats.
+
+mon5 stats:
+mon5
+Species: Chimera
+Level: 6
+Attribute: water
+Health: 98
+Attack: 65
+Defense: 53
+
+You try to feed the monster out of kindness.
+mon5 nibbles then throws away its meal. It smirks!!!
+
+Upgrade points: 17
+Please enter points spent on upgrading stats in the following format: health attack defense.
+
+
+Invalid inputs!
+Please enter points spent on upgrading stats in the following format: health attack defense.
+
+
+Invalid inputs!
+Please enter points spent on upgrading stats in the following format: health attack defense.
+
+
+Invalid inputs!
+You need to spend all 17 upgrade points.
+Please enter points spent on upgrading stats in the following format: health attack defense.
+
+
+Invalid inputs!
+mon5 only has 17 upgrade points.
+Please enter points spent on upgrading stats in the following format: health attack defense.
+
+
+Upgrade successfully!
+
+mon5 new stats:
+mon5
+Species: Chimera
+Level: 6
+Attribute: water
+Health: 104
+Attack: 71
+Defense: 58
+
+You try to feed the monster out of kindness.
+mon5 nibbles then throws away its meal. It smirks!!!
+mon6 grows stronger. It is now level 7
+mon6 gains 17 upgrade points!
+You can now upgrade mon6's stats.
+
+mon6 stats:
+mon6
+Species: Dragon
+Level: 7
+Attribute: fire
+Health: 139
+Attack: 95
+Defense: 74
+
+You try to feed the monster out of kindness.
+mon6 eats its prey with gratitude. It is a majestic creature on top of the food chain!!!
+
+Upgrade points: 17
+Please enter points spent on upgrading stats in the following format: health attack defense.
+
+
+Invalid inputs!
+Please enter points spent on upgrading stats in the following format: health attack defense.
+
+
+Invalid inputs!
+Please enter points spent on upgrading stats in the following format: health attack defense.
+
+
+Invalid inputs!
+You need to spend all 17 upgrade points.
+Please enter points spent on upgrading stats in the following format: health attack defense.
+
+
+Invalid inputs!
+mon6 only has 17 upgrade points.
+Please enter points spent on upgrading stats in the following format: health attack defense.
+
+
+Upgrade successfully!
+
+mon6 new stats:
+mon6
+Species: Dragon
+Level: 7
+Attribute: fire
+Health: 145
+Attack: 101
+Defense: 79
+
+You try to feed the monster out of kindness.
+mon6 eats its prey with gratitude. It is a majestic creature on top of the food chain!!!
+180 216 261 356 380 426

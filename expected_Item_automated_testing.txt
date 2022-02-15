@@ -1,0 +1,18 @@
+ATTACK Potion grade 2
+You've used ATTACK Potion grade 2.
+1.5 1
+PREMIUM Potion grade 1
+You've used PREMIUM Potion grade 1.
+1.25 1.25
+DEFENSE Potion grade 3
+You've used DEFENSE Potion grade 3.
+1 1.75
+NORMAL monball
+You've used NORMAL monball.
+80 50 20
+GREAT monball
+You've used GREAT monball.
+90 60 30
+MASTER monball
+You've used MASTER monball.
+100 70 40

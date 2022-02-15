@@ -1,0 +1,29 @@
+MonMon Rule and Description:
+
+Player:
+User start the game with 100 golds, 3 monballs, and a random monster.
+User can catch monster. However, they can only have 5 monster at the same time.
+User can release monster if they want to
+User can earn golds, experience points through battles catching monsters.
+
+Monster:
+Monster has attribute, so pay attention to your opponent stats to choose the right monster.
+Monster can battle to earn experience points to level up.
+There are six monster species, and they are divided into 3 rank:
+	_ Rank 1: Slime, Eagle
+	_ Rank 2: Wolf, Bear
+	_ Rank 3: Chimera, Dragon
+
+Shop:
+User can buy monballs and potions in shop using gold.
+There are 3 type of potion: ATTACK potion, DEFENSE potion and PREMIUM potion which increase both stats
+There are 3 type of monballs: NORMAL, GREAT, and MASTER monball in increasing order
+
+Zone:
+Each zone has different monster and one zone BOSS.
+User need to pay 10 golds to battle with the zone BOSS.
+User can go into Zone 1 at anytime. However, they need to meet the requirements to go into other zones:
+    _ Zone 2: Player's level 5, deafeat Zone 1 BOSS
+    _ Zone 3: Player's level 12, deafeat Zone 2 BOSS
+
+The game will start in 5 seconds.

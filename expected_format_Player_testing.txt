@@ -1,0 +1,197 @@
+Welcome to MonMon.
+The Adventure starts now!
+You have 100 golds and 3 Normal Monballs at start.
+
+Congratulations! You got a Bear
+
+Your monster list:
+(1) Testing_Monster_1
+(2) ???
+(3) ???
+
+Choose the monster you want by enter the intial number: 
+Your monster list:
+(1) Testing_Monster_1
+(2) Testing_Monster_2
+(3) ???
+
+Choose the monster you want by enter the intial number: Monsters List: 
+(1) Testing_Monster_1
+(2) Testing_Monster_2
+(3) Testing_Monster_3
+
+Test print_monsters_info: 
+(1) Testing_Monster_1
+(2) Testing_Monster_2
+(3) Testing_Monster_3
+
+Enter 0 to return to main menu.
+
+Choose the monster you want to see stats: 
+Invalid input!
+
+Choose the monster you want to see stats: 
+Invalid input!
+
+Choose the monster you want to see stats: 
+Invalid input!
+
+Choose the monster you want to see stats: (1) Testing_Monster_1
+(2) Testing_Monster_2
+(3) Testing_Monster_3
+
+Enter 0 to return to main menu.
+
+Choose the monster you want to see stats: Testing_Monster_2
+Species: Chimera
+Level: 1
+Attribute: metal
+Health: 102
+Attack: 71
+Defense: 48
+
+You try to feed the monster out of kindness.
+Testing_Monster_2 nibbles then throws away its meal. It smirks!!!
+
+Number of current monster: 3
+Name: Testing_Person
+
+Test release all monster: 
+
+Your monster list:
+(1) Testing_Monster_1
+(2) Testing_Monster_2
+(3) Testing_Monster_3
+
+Choose the monster you want by enter the intial number: 
+Invalid input!
+
+Choose the monster you want by enter the intial number: 
+Invalid input!
+
+Choose the monster you want by enter the intial number: 
+Invalid input!
+
+Choose the monster you want by enter the intial number: 
+You give Testing_Monster_2 freedom! It stares at you and then leaves
+What was that stare?
+
+Your monster list:
+(1) Testing_Monster_1
+(2) Testing_Monster_3
+
+Choose the monster you want by enter the intial number: 
+You give Testing_Monster_3 freedom! It stares at you and then leaves
+What was that stare?
+
+Your monster list:
+(1) Testing_Monster_1
+
+You can't release any monster because you only have one monster!
+Current gold: 100
+Current gold: 105
+
+Your current gold: 105
+1. ATTACK Potion grade 1	5 golds
+2. ATTACK Potion grade 2	10 golds
+3. ATTACK Potion grade 3	15 golds
+4. DEFENSE Potion grade 1	5 golds
+5. DEFENSE Potion grade 2	10 golds
+6. DEFENSE Potion grade 3	15 golds
+7. PREMIUM Potion grade 1	10 golds
+8. PREMIUM Potion grade 2	20 golds
+9. PREMIUM Potion grade 3	30 golds
+10. NORMAL monball		10 golds
+11. GREAT monball		20 golds
+12. MASTER monball		30 golds
+
+Enter 0 if you want to go back to menu.
+Please choose the item you want to buy by choosing the position number: 
+Invalid input!
+
+Please choose the item you want to buy by choosing the position number: 
+Invalid input!
+
+Please choose the item you want to buy by choosing the position number: 
+Your current gold: 105
+1. ATTACK Potion grade 1	5 golds
+2. ATTACK Potion grade 2	10 golds
+3. ATTACK Potion grade 3	15 golds
+4. DEFENSE Potion grade 1	5 golds
+5. DEFENSE Potion grade 2	10 golds
+6. DEFENSE Potion grade 3	15 golds
+7. PREMIUM Potion grade 1	10 golds
+8. PREMIUM Potion grade 2	20 golds
+9. PREMIUM Potion grade 3	30 golds
+10. NORMAL monball		10 golds
+11. GREAT monball		20 golds
+12. MASTER monball		30 golds
+
+Enter 0 if you want to go back to menu.
+Please choose the item you want to buy by choosing the position number: 
+Please enter the amount of MASTER monball that you want to buy: 
+You do not have enough gold. Search your pocket again?
+
+Please enter the amount of MASTER monball that you want to buy: 
+Invalid input!
+
+Please enter the amount of MASTER monball that you want to buy: 
+Invalid input!
+
+Please enter the amount of MASTER monball that you want to buy: 
+You did not buy anything!
+(1) Testing_Monster_1
+1. ATTACK Potion grade 1	0
+2. ATTACK Potion grade 2	0
+3. ATTACK Potion grade 3	0
+4. DEFENSE Potion grade 1	0
+5. DEFENSE Potion grade 2	0
+6. DEFENSE Potion grade 3	0
+7. PREMIUM Potion grade 1	0
+8. PREMIUM Potion grade 2	0
+9. PREMIUM Potion grade 3	0
+10. NORMAL monball		3
+11. GREAT monball		0
+12. MASTER monball		0
+Slots: 3/5
+
+Your current gold: 105
+1. ATTACK Potion grade 1	5 golds
+2. ATTACK Potion grade 2	10 golds
+3. ATTACK Potion grade 3	15 golds
+4. DEFENSE Potion grade 1	5 golds
+5. DEFENSE Potion grade 2	10 golds
+6. DEFENSE Potion grade 3	15 golds
+7. PREMIUM Potion grade 1	10 golds
+8. PREMIUM Potion grade 2	20 golds
+9. PREMIUM Potion grade 3	30 golds
+10. NORMAL monball		10 golds
+11. GREAT monball		20 golds
+12. MASTER monball		30 golds
+
+Enter 0 if you want to go back to menu.
+Please choose the item you want to buy by choosing the position number: 
+Please enter the amount of NORMAL monball that you want to buy: 
+Out of slots!
+
+Please enter the amount of NORMAL monball that you want to buy: 
+Complete purchase! You got 2 NORMAL monball!
+
+Your current gold: 85
+1. ATTACK Potion grade 1	5 golds
+2. ATTACK Potion grade 2	10 golds
+3. ATTACK Potion grade 3	15 golds
+4. DEFENSE Potion grade 1	5 golds
+5. DEFENSE Potion grade 2	10 golds
+6. DEFENSE Potion grade 3	15 golds
+7. PREMIUM Potion grade 1	10 golds
+8. PREMIUM Potion grade 2	20 golds
+9. PREMIUM Potion grade 3	30 golds
+10. NORMAL monball		10 golds
+11. GREAT monball		20 golds
+12. MASTER monball		30 golds
+
+Enter 0 if you want to go back to menu.
+Please choose the item you want to buy by choosing the position number: Current level: 1
+LEVEL 1: 0/20
+Computer testing

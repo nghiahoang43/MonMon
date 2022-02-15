@@ -1,0 +1,6 @@
+Permission zone 1: 1
+Boss zone 1: Wind Wolf
+Permission zone 2: 1
+Boss zone 1: Thunder Bear
+Permission zone 3: 1
+Boss zone 1: Evil Dragon
